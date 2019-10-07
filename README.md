@@ -1,6 +1,7 @@
 # Luhn
 
 ![](https://github.com/blancohugo/luhn/workflows/Clojure%20CI/badge.svg)
+[![Clojars Project](https://img.shields.io/clojars/v/blancohugo.luhn.svg)](https://clojars.org/blancohugo.luhn)
 
 The [Luhn algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm) is
 a simple checksum formula used to validate a variety of identification
